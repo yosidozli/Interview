@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Interview</string>
+    <string name="message">%1$d tasks completed out of %2$d.</string>
+</resources>
